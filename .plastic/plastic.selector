@@ -1,0 +1,4 @@
+repository "XD@FAUN@cloud"
+  path "/"
+    br "/main"
+    co "/main"
